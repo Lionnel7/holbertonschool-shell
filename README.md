@@ -1,2 +1,2 @@
-# holbertonschool-shell
-My second repo
+#!/bin/bash
+pwd
