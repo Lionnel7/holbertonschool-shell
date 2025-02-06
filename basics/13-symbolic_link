@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /bin/Lionnel7/__ls__ raccourci
+ln -s /bin/ls raccourci/__ls__
