@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vicent:personnel.
+chown -R vincent:personnel.
